@@ -1,4 +1,4 @@
-{"data": [
+[
     {
       "_id": 112,
       "films": [
@@ -823,4 +823,4 @@
       "url": "https://api.disneyapi.dev/characters/351"
     }
   ]
-}
+
